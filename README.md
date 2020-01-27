@@ -18,7 +18,7 @@ the License, or (at your option) any later version.
 
 ## Usage	  
 
-Please run "demo.m" using MATLAB for generating Local Point Signature(LPS).
+Please run "demo.m" using MATLAB for generating Local Point Signature(LPS) on Linux or Windows system.
 
 1. input: "off", "obj", or "ply" format of mesh model in mesh_dir folder.
 
