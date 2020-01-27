@@ -20,6 +20,6 @@ the License, or (at your option) any later version.
 
 Please run "demo.m" using MATLAB for generating Local Point Signature(LPS) on Linux, Mac or Windows system.
 
-1. input: "off", "obj", or "ply" format of mesh model in mesh_dir folder.
+1. Input: "off", "obj", or "ply" format of mesh model in mesh_dir folder.
 
-2. output: Local Point Signature on every vertex saved in ourput_dir folder. 
+2. Output: Local Point Signature on every vertex saved in ourput_dir folder. 
